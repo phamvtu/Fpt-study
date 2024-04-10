@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b909c41d-9c9f-4f04-a04a-94ddc9fe4b08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Fpt-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vd1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,9 @@
       <workItem from="1712680460911" duration="2000" />
       <workItem from="1712680676118" duration="67000" />
       <workItem from="1712711137002" duration="7000" />
+      <workItem from="1712717683531" duration="15000" />
+      <workItem from="1712717996684" duration="13000" />
+      <workItem from="1712718072440" duration="11000" />
     </task>
     <servers />
   </component>
